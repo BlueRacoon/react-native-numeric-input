@@ -17,11 +17,11 @@ enjoy!
 v1.9.0
 #### if you have react-native-vector-icons installed in your project
 ```bash
-yarn add react-native-numeric-input
+yarn add BlueRacoon/react-native-numeric-input
 ```
 or with npm
 ```bash
-npm install react-native-numeric-input --save
+npm install BlueRacoon/react-native-numeric-input --save
 ```
 #### if you don't have react-native-vector-icons installed in your project
 ```bash
