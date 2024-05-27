@@ -25,14 +25,14 @@ npm install BlueRacoon/react-native-numeric-input --save
 ```
 #### if you don't have react-native-vector-icons installed in your project
 ```bash
-yarn add react-native-numeric-input react-native-vector-icons
+yarn add BlueRacoon/react-native-numeric-input react-native-vector-icons
 react-native link
 ```
 
 or with npm
 
 ```bash
-npm install react-native-numeric-input react-native-vector-icons --save
+npm install BlueRacoon/react-native-numeric-input react-native-vector-icons --save
 react-native link
 ```
 if you're experiencing issues with `react-native link` which is used to install react-native-vector-icons
